@@ -21,3 +21,4 @@ puts "I LOVE YOU TOO PUMPKIN!"
 else 
   puts "HUH?! SPEAK UP, SONNY!"
 end
+speak_to_grandma(phrase)
